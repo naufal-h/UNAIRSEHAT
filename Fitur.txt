@@ -1,5 +1,5 @@
-UNAIRSEHAT adalah aplikasi kesehatan komprehensif yang dirancang untuk membantu Anda menjaga dan meningkatkan kesehatan secara menyeluruh. 
-Dengan fitur-fitur canggih dan mudah digunakan, UNAIRSEHAT menjadi asisten kesehatan pribadi yang selalu siap membantu Anda menjalani gaya hidup sehat. 
+UNAIRSEHAT adalah aplikasi kesehatan komprehensif yang dirancang untuk membantu Anda menjaga dan meningkatkan kesehatan secara menyeluruh dari pengguna. 
+Dengan fitur-fitur canggih dan mudah digunakan, UNAIRSEHAT dapat menjadi asisten kesehatan pribadi yang selalu siap membantu Anda menjalani gaya hidup sehat. 
 Berikut adalah fitur-fitur unggulan dari aplikasi UNAIRSEHAT:
 
-1. 
+1. Fitur 
