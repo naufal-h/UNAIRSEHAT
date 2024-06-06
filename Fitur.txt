@@ -2,9 +2,11 @@ UNAIRSEHAT adalah aplikasi kesehatan komprehensif yang dirancang untuk membantu 
 Dengan fitur-fitur canggih dan mudah digunakan, UNAIRSEHAT dapat menjadi asisten kesehatan pribadi yang selalu siap membantu Anda menjalani gaya hidup sehat. 
 Berikut adalah fitur-fitur unggulan dari aplikasi UNAIRSEHAT:
 
-<<<<<<< HEAD
-1. Meal planner
+
+1. [water-intake] The body has no way to store water and needs fresh supplies every day. The best source of fluids is fresh tap water. A child will need different amounts of fluid, depending on their age and gender. Women should have about 2 litres (8 cups) of fluids a day, and men about 2.6 litres (10 cups). tambahan
+2. sleep-tracker branch yeah
+3. Fitur Tracker
+4. tidur selama 8 jam
+5. user dapat melihat jam tidurnya
+6. Meal planner
 Ini adalah fitur untuk melakukan tracking makanan yang di konsumsi oelh user setiap harinya. Fiturnya meliputi data makanan user, jam makan user, dan identitas user.
-=======
-1. Fitur 
->>>>>>> cc8fad11f37a8dc4dab50e0e1c3a3863673637e2
