@@ -2,9 +2,7 @@ UNAIRSEHAT adalah aplikasi kesehatan komprehensif yang dirancang untuk membantu 
 Dengan fitur-fitur canggih dan mudah digunakan, UNAIRSEHAT dapat menjadi asisten kesehatan pribadi yang selalu siap membantu Anda menjalani gaya hidup sehat. 
 Berikut adalah fitur-fitur unggulan dari aplikasi UNAIRSEHAT:
 
+1. [water-intake] The body has no way to store water and needs fresh supplies every day. The best source of fluids is fresh tap water. A child will need different amounts of fluid, depending on their age and gender. Women should have about 2 litres (8 cups) of fluids a day, and men about 2.6 litres (10 cups). tambahan
 1. sleep-tracker branch yeah
 2. tidur selama 8 jam
 3. user dapat melihat jam tidurnya
-
-=======add new======
-p
