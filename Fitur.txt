@@ -2,4 +2,5 @@ UNAIRSEHAT adalah aplikasi kesehatan komprehensif yang dirancang untuk membantu 
 Dengan fitur-fitur canggih dan mudah digunakan, UNAIRSEHAT menjadi asisten kesehatan pribadi yang selalu siap membantu Anda menjalani gaya hidup sehat. 
 Berikut adalah fitur-fitur unggulan dari aplikasi UNAIRSEHAT:
 
-1. 
+1. Meal planner
+Ini adalah fitur untuk melakukan tracking makanan yang di konsumsi oelh user setiap harinya. Fiturnya meliputi data makanan user, jam makan user, dan identitas user.
